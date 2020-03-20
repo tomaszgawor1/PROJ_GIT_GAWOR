@@ -6,6 +6,7 @@ int main() {
     cout << "GIT" << endl;
     cout << "NEW Branch" << endl;
     cout << "New_local_2" << endl;
+    cout << "Slack1" << endl;
 
     return 0;
 }
